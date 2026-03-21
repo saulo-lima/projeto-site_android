@@ -1,5 +1,5 @@
 # projetos-site_android
-ite desenvolvido durante o curso de HTML5 e CSS3 do Curso em Vídeo (módulo 2 de 5).
+site desenvolvido durante o curso de HTML5 e CSS3 do Curso em Vídeo (módulo 2 de 5).
 Tema: Android (sistema, curiosidades e notícias).
 Foco em layout responsivo e semântica moderna.
 
