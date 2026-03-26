@@ -25,4 +25,7 @@ HTML5
 CSS3
 Elementos semânticos (header, nav, main, section, footer)
 Responsividade básica (media queries, picture, video ajustável)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 26b183e998befa2dc94df40884e908c0d97af90c
