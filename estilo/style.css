@@ -36,6 +36,7 @@ header{
     text-align: center;
     padding-top: 30px;
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
+    min-width: 100vw;
 }
 header > h1{
     color: white;
